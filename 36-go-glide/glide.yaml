@@ -1,0 +1,3 @@
+package: github.com/tyomarius05/go-academy/36-go-glide
+import:
+- package: github.com/wuriyanto48/floop
