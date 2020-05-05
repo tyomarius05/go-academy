@@ -1,0 +1,4 @@
+package: github.com/tyomarius05/go-academy/40-go-tutorialPostgres
+import:
+- package: github.com/lib/pq
+  version: v1.4.0
